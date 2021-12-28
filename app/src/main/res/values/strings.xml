@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rx App</string>
+    <string name="app_name_rx">RX</string>
+
+    <!--Login-->
+    <string name="mobile">Mobile No</string>
+    <string name="password">Password</string>
+    <string name="cnf_password">Confirm Password</string>
+    <string name="forgot_your_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="blood">Blood</string>
+    <string name="register_as_new_user">Register as new user?</string>
+    <string name="already_register">Already Register! Login here</string>
+
+</resources>
